@@ -1,0 +1,6 @@
+{
+  "name": "Kena Food Complex",
+  "description": "Professional corporate portal for Kena Food Complex in Arsi Eteya, Ethiopia, featuring specialized unbleached highland wheat and premium stoneground teff flour grades, B2B customized sifting services, news announcements, an interactive administrative controls dashboard, and an AI-powered technical rheology assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
